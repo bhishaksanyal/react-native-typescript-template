@@ -7,5 +7,6 @@
   "prettier.enable": true,
   "prettier.requireConfig": true,
   "prettier.configPath": ".prettierrc.json",
-  "cSpell.words": []
+  "cSpell.words": [],
+  "git.ignoreLimitWarning": true
 }
